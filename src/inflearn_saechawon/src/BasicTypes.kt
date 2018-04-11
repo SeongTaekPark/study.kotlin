@@ -1,4 +1,4 @@
-package inflearn_saechawon
+package inflearn_saechawon.src
 
 // Java 플랫폼에서 숫자형은 JVM primitive type 으로 저장됨
 // Nullable이나 제네릭의 경우에는 박싱됨
