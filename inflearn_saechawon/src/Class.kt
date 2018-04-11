@@ -1,4 +1,4 @@
-package inflearn_saechawon.src
+package src
 
 fun main(args: Array<String>) {
     val obj = Customer("코틀린")

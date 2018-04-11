@@ -1,4 +1,4 @@
-package inflearn_saechawon.src
+package src
 
 fun main(args: Array<String>) {
     foo4()

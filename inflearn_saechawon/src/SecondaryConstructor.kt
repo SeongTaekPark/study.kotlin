@@ -1,4 +1,4 @@
-package inflearn_saechawon.src
+package src
 
 // 보조 생성자.
 class Person(val name: String) {
