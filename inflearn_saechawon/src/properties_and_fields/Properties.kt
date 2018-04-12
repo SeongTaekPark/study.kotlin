@@ -1,4 +1,4 @@
-package src
+package src.properties_and_fields
 
 // Properties
 

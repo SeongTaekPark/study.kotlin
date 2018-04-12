@@ -1,4 +1,4 @@
-package src
+package src.`class`
 
 fun main(args: Array<String>) {
     val obj = Customer("코틀린")

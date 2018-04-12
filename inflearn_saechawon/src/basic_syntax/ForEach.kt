@@ -1,4 +1,4 @@
-package src
+package src.basic_syntax
 
 fun main(args: Array<String>) {
     foo4()
