@@ -1,4 +1,4 @@
-package src.object_expressions
+package infleran_saechawon.object_expressions
 
 // 객체 선언 문법
 // - object 키워드 뒤에 항상 이름이 있어야 함

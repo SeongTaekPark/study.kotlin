@@ -1,4 +1,4 @@
-package src.basic_syntax
+package infleran_saechawon.basic_syntax
 
 // 보조 생성자.
 class Person(val name: String) {

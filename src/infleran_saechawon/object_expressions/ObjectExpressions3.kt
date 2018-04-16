@@ -1,4 +1,4 @@
-package src.object_expressions
+package infleran_saechawon.object_expressions
 
 
 class MyClass {

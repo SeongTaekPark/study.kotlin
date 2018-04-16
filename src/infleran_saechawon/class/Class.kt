@@ -1,4 +1,4 @@
-package src.`class`
+package infleran_saechawon.`class`
 
 fun main(args: Array<String>) {
     val obj = Customer("코틀린")

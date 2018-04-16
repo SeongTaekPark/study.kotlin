@@ -1,4 +1,4 @@
-package src.basic_syntax
+package infleran_saechawon.basic_syntax
 
 fun main(args: Array<String>) {
     foo4()

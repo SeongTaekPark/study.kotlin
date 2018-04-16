@@ -1,4 +1,4 @@
-package src.data_and_nested_classes.test2
+package infleran_saechawon.data_and_nested_classes.test2
 
 
 /**

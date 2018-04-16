@@ -1,4 +1,4 @@
-package src.data_and_nested_classes
+package infleran_saechawon.data_and_nested_classes
 
 class Outer {
     private val bar: Int = 1

@@ -1,4 +1,4 @@
-package src.object_expressions.test1
+package infleran_saechawon.object_expressions.test1
 
 // 동반자 객체
 // - 클래스 내부의 object declaration 은 companion 키워드를 붙일 수 있음.

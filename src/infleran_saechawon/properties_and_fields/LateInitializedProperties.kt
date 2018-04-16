@@ -1,4 +1,4 @@
-package src.lateinitialized
+package infleran_saechawon.lateinitialized
 
 fun main(args: Array<String>) {
     var obj = Address()

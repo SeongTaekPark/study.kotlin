@@ -1,4 +1,4 @@
-package src.data_and_nested_classes
+package infleran_saechawon.data_and_nested_classes
 
 fun main(args: Array<String>) {
 //    var obj = User("Kotlin", 113)

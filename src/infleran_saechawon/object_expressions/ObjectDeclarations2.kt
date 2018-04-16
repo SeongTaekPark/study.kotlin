@@ -1,4 +1,4 @@
-package src.object_expressions.test2
+package infleran_saechawon.object_expressions.test2
 
 // - object declaration 는 나중에 초기화 된다. (최초 접근 시)
 

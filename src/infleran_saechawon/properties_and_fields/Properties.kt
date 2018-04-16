@@ -1,4 +1,4 @@
-package src.properties_and_fields
+package infleran_saechawon.properties_and_fields
 
 // Properties
 
