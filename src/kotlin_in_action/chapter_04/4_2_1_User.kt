@@ -1,6 +1,13 @@
 package ch04.User1
 
-class User(val nickname: String, val isSubscribed: Boolean = true)
+open class User(val nickname: String, val isSubscribed: Boolean = true)
+
+class TwitterUser(nickname: String) : User(nickname)
+
+/**
+ * 이클래스의 (유일한) 주 생성자는 비공개다.
+ */
+class Secrettive private constructor()
 
 
 fun main(args: Array<String>) {
